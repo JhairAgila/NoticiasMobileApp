@@ -1,0 +1,11 @@
+{
+    "development": {
+        "username": "root",
+        "database": "Universidad",
+        "password": "dolorosax100pre",
+        "host": "127.0.0.1",
+        "dialect": "mysql",
+        "operatorAlias": false
+    }
+
+}
